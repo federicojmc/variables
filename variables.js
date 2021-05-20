@@ -20,6 +20,15 @@ var persona = {
     telefono: 1234567
 };
 
+var $ciudad = "Buenos aires";
+
+let _dni = 123456789;
+
+let cuentaAfip = 1234125126123;
+
+const dni = 12312415213;
+const fechaNacimiento = 24
+
 console.log(persona)
 
 //Trabajando con el Dom
